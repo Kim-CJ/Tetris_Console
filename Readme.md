@@ -7,7 +7,7 @@
 
 ### &nbsp;&nbsp;1. 기본적인 UI
 #### &nbsp;&nbsp;&nbsp;&nbsp;(1) UI 샘플
-&nbsp;&nbsp;&nbsp;&nbsp;![Sample](https://github.com/Kim-CJ/Tetris_Console/tree/master/img/Sample.png)
+&nbsp;&nbsp;&nbsp;&nbsp;![Sample](./img/Sample.png)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;(2) UI 설명
     Ui는 기본적으로
