@@ -11,6 +11,7 @@ namespace Tetris_Console
         static void Main(string[] arg)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World");
         }
     }
 }
