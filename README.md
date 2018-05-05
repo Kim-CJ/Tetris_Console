@@ -7,16 +7,22 @@
 
 ### &nbsp;&nbsp;1. 기본적인 UI
 #### &nbsp;&nbsp;&nbsp;&nbsp;(1) UI 샘플
-&nbsp;&nbsp;&nbsp;&nbsp;![Sample](./img/Sample.png)
+![Sample](./img/Sample.png)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;(2) UI 설명
-    Ui는 기본적으로
+    - Game Screen : 게임화면 출력
+    - Next Block : 다음 블록 출력
+    - Next Next Block : 다다음 블록 출력
+    - Best Player Name : 최고점 유저명 출력
+    - Best Player Score : 최고점 유저의 점수 출력
+    - Your Name : 현재 유저명 출력
+    - Your Score : 현재 유저 점수 출력
 
 ### &nbsp;&nbsp;2. 조작키
-    방향키(↑←↓→) : 블록 조각을 조작한다. / 메뉴 이동
-    스페이스바 : 블록을 바로 떨어뜨린다.
-    p : 일시정지 / 일시정지 해제
-    Enter : 메뉴 선택
+    - Direction key : 블록 조각을 조작한다. / 메뉴 이동
+    - Space Bar : 블록을 바로 떨어뜨린다.
+    - p : 일시정지 / 일시정지 해제
+    - Enter : 메뉴 선택
 
 ### &nbsp;&nbsp;3. 진행방식
     1. 프로그램 실행시 유저명을 입력 받는다.
